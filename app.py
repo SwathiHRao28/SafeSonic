@@ -16,8 +16,8 @@ with open(MODEL_PATH, "rb") as f:
 MAX_PAD_LEN = 100  # Padding length for MFCC features
 
 # Telegram Bot Details
-TELEGRAM_BOT_TOKEN = "7660995028:AAHXcw6oFpWDOsgSU1oKXKPIfERlXnNiI2w"
-TELEGRAM_CHAT_ID = "1809002268"
+TELEGRAM_BOT_TOKEN = "addtoken"
+TELEGRAM_CHAT_ID = "addid"
 
 # Path to the baby crying video (MP4)
 VIDEO_PATH = "C:/Users/91876/Desktop/project/Baby Girl Cry.mp4"
